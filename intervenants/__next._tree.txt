@@ -1,7 +1,8 @@
-:HL["/_next/static/chunks/303aaojpugc_s.css","style"]
+:HL["/_next/static/chunks/0s_79wtxspgdh.css","style"]
 :HL["/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/brand/rdc-drapeau.svg","image"]
 :HL["/photos/rdc/kinshasa-fleuve.jpg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
-2:[["children",{"s":"intervenants","h":64,"c":"$Q3"}]]
-1:[["children",{"s":"(frontend)","h":48,"c":"$Q2"}]]
-0:{"b":"ietdYS99NyQlaItvjkWYn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+2:[["children",{"s":"intervenants","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(frontend)","h":112,"c":"$Q2"}]]
+0:{"b":"y-ETF0gMwM67ifI0iVX1V","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
