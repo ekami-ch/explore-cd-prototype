@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/10jb0-kfd1lr8.css","style"]
+:HL["/_next/static/chunks/20bqhpf-0he5u.css","style"]
 :HL["/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/brand/rdc-drapeau.svg","image"]
 :HL["/photos/rdc/inga.jpg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"actualites","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(frontend)","h":48,"c":"$Q2"}]]
-0:{"b":"UF5t9HuuVAk5Yrn7GAZu4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"-2pkpkzubit9p-l3g4v06","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
