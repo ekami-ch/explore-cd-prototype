@@ -7,6 +7,7 @@
 :HL["/photos/numerique.jpg","image"]
 :HL["/photos/officiels/fwamba.jpg","image"]
 :HL["/photos/officiels/paluku.jpg","image"]
+:HL["/photos/officiels/tshisekedi.jpg","image"]
 :HL["/photos/rdc/agriculture.jpg","image"]
 :HL["/photos/rdc/fleuve-aerien.jpg","image"]
 :HL["/photos/rdc/foret.jpg","image"]
@@ -22,10 +23,9 @@
 :HL["/photos/officiels/kayikwamba-wagner.jpg","image"]
 :HL["/photos/officiels/nzangi.jpg","image"]
 :HL["/photos/officiels/mukoko-samba.jpg","image"]
-:HL["/photos/officiels/tshisekedi.jpg","image"]
 :HL["/photos/officiels/watum.jpg","image"]
 :HL["/photos/officiels/sakombi.jpg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"credits","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(frontend)","h":48,"c":"$Q2"}]]
-0:{"b":"-2pkpkzubit9p-l3g4v06","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"71jPtP1aOFuvBx21pjN6i","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
