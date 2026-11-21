@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0s_79wtxspgdh.css","style"]
+:HL["/_next/static/chunks/0ldoq3sevp4xb.css","style"]
 :HL["/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/brand/rdc-drapeau.svg","image"]
 :HL["/photos/rdc/fleuve-aerien.jpg","image"]
@@ -16,6 +16,6 @@
 :HL["/photos/rdc/kivu.jpg","image"]
 :HL["/photos/rdc/foret.jpg","image"]
 :HL["/photos/rdc/gorille.jpg","image"]
-2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":"(frontend)","h":112,"c":"$Q2"}]]
-0:{"b":"oAft4D8WImlY0cMnbrJne","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+2:[["children",{"s":"__PAGE__","h":128}]]
+1:[["children",{"s":"(frontend)","h":48,"c":"$Q2"}]]
+0:{"b":"irNf1a44ku3G-ksCUlIGM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
