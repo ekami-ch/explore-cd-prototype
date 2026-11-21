@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1i_lfcw0qqlck.css","style"]
+:HL["/_next/static/chunks/0eul7y4ipinh2.css","style"]
 :HL["/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/brand/rdc-drapeau.svg","image"]
 :HL["/photos/rdc/kinshasa-nuit.jpg","image"]
@@ -14,4 +14,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"investir","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"(frontend)","h":48,"c":"$Q2"}]]
-0:{"b":"4MkSEggnro61uBFloJ-9H","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"2Kt4QnvD9YX3smwWBBypB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
